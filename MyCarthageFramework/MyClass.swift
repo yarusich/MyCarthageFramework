@@ -8,6 +8,8 @@
 
 public class MyClass {
     
+    init() { }
+    
     func hello() {
         print("Hello World!")
     }
