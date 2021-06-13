@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		84D8401826759B3200711D23 /* MyCarthageFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 84D8401626759B3200711D23 /* MyCarthageFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		84D8402426759B6200711D23 /* MyClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D8402326759B6200711D23 /* MyClass.swift */; };
-		84D840342676192100711D23 /* MyCarthageFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D8401326759B3200711D23 /* MyCarthageFramework.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,7 +23,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84D840342676192100711D23 /* MyCarthageFramework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
