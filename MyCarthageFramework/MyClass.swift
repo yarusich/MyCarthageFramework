@@ -8,9 +8,9 @@
 
 public class MyClass {
     
-    init() { }
+    public init() { }
     
-    func hello() {
+    public func hello() {
         print("Hello World!")
     }
 }
